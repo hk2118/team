@@ -1,0 +1,27 @@
+.main{
+    background-color: black;
+    padding: 20px;
+}
+.top-heading{
+    color:white;
+    text-align: center;
+}
+.flexrow1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: black;
+    padding: 20px;
+}
+.ui{
+    text-align: center;
+    color:white;
+}
+.card-body{
+    background-color: black;
+    border-radius: 10px;
+    
+}
+.card-body p{
+    color:white;
+}
